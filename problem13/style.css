@@ -1,0 +1,29 @@
+h1 {
+  margin-top: 24px;
+  text-align: center;
+}
+
+.section {
+  display: flex;
+  flex-direction: column;
+  margin: 100px;
+}
+
+.container {
+  display: flex;
+}
+
+.smol {
+  height: 100px;
+}
+
+.col {
+  text-align: center;
+  border-style: dashed;
+  margin: 20px;
+  padding: 10px;
+}
+
+.heading {
+  font-size: 12px;
+}

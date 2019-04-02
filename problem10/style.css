@@ -1,21 +1,29 @@
 .centered {
   text-align: center;
 }
+
 #title {
-  font-size: 30pt;
+  font-size: 30px;
+  margin: 0px;
 }
+
 #subtitle {
-  font-size: 15pt;
+  font-size: 15px;
+  margin: 0px;
 }
+
 div {
   background-color: gray;
 }
-#li {
+
+li {
   list-style-type: none;
 }
-.content {
+
+#content {
   text-decoration: underline;
 }
+
 .monospaced {
   font-family: monospace;
 }
